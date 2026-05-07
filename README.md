@@ -44,18 +44,14 @@ I work at the intersection of **engineering** and **software development**, buil
         ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
         ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-        **Engineering Domain:**
-        - Structural Engineering (BIM)
-        - - Hydraulic Systems
-          - - Fire Protection Design
-            - - Plugin Architecture (.NET / Revit API / AutoCAD API)
-             
-              - ---
+        **Engineering Domain:** Structural Engineering (BIM) · Hydraulic Systems · Fire Protection Design · Plugin Architecture (.NET / Revit API / AutoCAD API)
 
-              ## 📊 GitHub Stats
+        ---
 
-              ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goericcastro&show_icons=true&theme=default&hide_border=true)
+        ## 📊 GitHub Stats
 
-              ---
+        ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goericcastro&show_icons=true&theme=default&hide_border=true)
 
-              *Open to freelance projects and full-time opportunities in BIM software development.* 🌎
+        ---
+
+        *Open to freelance projects and full-time opportunities in BIM software development.* 🌎
