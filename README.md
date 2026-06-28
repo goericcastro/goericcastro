@@ -9,13 +9,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Civil/Structural Engineer turned software developer, specialized in **BIM automation** and **plugin development** for Autodesk Revit and AutoCAD using C# and the .NET API.
+I'm a Civil/Structural Engineer turned software developer, specialized in **BIM automation** and **plugin development** for Autodesk Revit and AutoCAD using C#.
 
 I work at the intersection of **engineering** and **software development**, building tools that automate workflows in structural, hydraulic, and fire protection projects.
 
 - 🟢 **Open to new opportunities** — available as of May 2026
 - 🔭 Building plugins for **Autodesk Revit** and **AutoCAD** (.NET API / C#)
-- 🌱 Expanding my skills in **Clean Architecture**, **Python**, and **web APIs**
+- 🌱 Expanding my skills in **Clean Architecture**, **Python**, and **Pandas APIs**
 - 💡 Passionate about automating repetitive engineering workflows
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/oericcastro/)
 
