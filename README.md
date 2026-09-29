@@ -1,6 +1,6 @@
 # Hi, I'm Eric Castro 👋
 
-### BIM Modeler & Software Developer | C# | Autodesk Revit | AutoCAD | Python
+### Structural Designer | BIM Coordination Specialist · ISO 19650 | Revit API C# | Civil 3D
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oericcastro/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oericcastro)
