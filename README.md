@@ -25,9 +25,9 @@ I work at the intersection of **engineering** and **software development**, buil
 
 | Project | Description | Tech |
 |---|---|---|
-| [**CleanBaseline_eric**](https://github.com/goericcastro/CleanBaseline_eric) | Clean Architecture for Structure, Hydraulics & Fire Protection systems | C# / .NET |
-| [**FastDesign**](https://github.com/goericcastro/FastDesign) | Revit plugin for editing geometries, plans and views | C# / Revit API |
-| [**Easy-Design**](https://github.com/goericcastro/Easy-Design) | Plugin enhancing the design experience in Revit with automation | C# / Revit API |
+| [**ECTools CAD (CleanBaseline)**](https://github.com/goericcastro/CleanBaseline) | AutoCAD plugin for drawing cleanup, nested-block removal, and standard layer and block preparation | C# / AutoCAD .NET API |
+| [**ECTools Revit**](https://github.com/goericcastro/ECTools) | Revit 2026 plugin replacing FastDesign and Easy-Design; tools for views, levels, structural reinforcement, and controlled BIM Mission Control data exchange | C# / Revit API / WPF |
+| [**MC — BIM Mission Control**](https://github.com/goericcastro/MC-BIM-Mission-Control) | Offline ISO 19650 project workspace for folder structures, naming, document generation, and schedules | HTML / CSS / JavaScript |
 
 ---
 
